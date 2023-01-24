@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Text Recognizetion</string>
+    <string name="start_camera">Start Camera</string>
+</resources>
